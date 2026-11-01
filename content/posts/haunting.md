@@ -11,7 +11,7 @@ asin: ""
 # Optional: paste an Amazon SiteStripe short link (amzn.to/...) instead of using the ASIN.
 amazonUrl: "https://www.amazon.in/s?k=book&ref=nb_sb_noss"
 sponsored: false   # set to true if the publisher/author paid you for this post
-draft: flase        # change to false when you are ready to publish
+draft: false        # change to false when you are ready to publish
 ---
 
 Write your OWN summary here. Do not copy the publisher's description, the Amazon blurb, or text from the book.
