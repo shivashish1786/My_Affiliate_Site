@@ -9,7 +9,7 @@ image: ""
 # The 10-character ASIN from the book's Amazon page (Product information section). Kindle books usually start with B0.
 asin: ""
 # Optional: paste an Amazon SiteStripe short link (amzn.to/...) instead of using the ASIN.
-amazonUrl: ""
+amazonUrl: "https://www.amazon.in/s?k=book&ref=nb_sb_noss"
 sponsored: false   # set to true if the publisher/author paid you for this post
 draft: flase        # change to false when you are ready to publish
 ---
